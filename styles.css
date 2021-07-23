@@ -1,0 +1,35 @@
+body {
+    background-color: #fff;
+    padding: 12% 15%;
+}
+
+h1 {
+  font-size: 5rem !important;
+}
+
+h2 {
+  font-size: 1.5rem !important;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main-logo.center {
+  margin-bottom: 7%;
+}
+
+.results {
+    margin:7% 0 0;
+    text-align: center;
+}
+
+.invisible {
+  display: none;
+}
+
+.input-group-btn .btn-success, .input-group-btn .btn-success:hover {
+    background-color:#000;
+    border-color:#000;
+}
